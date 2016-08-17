@@ -1,0 +1,1 @@
+This is an analysis of the Lending Club loan data to understand details behind the interrelationships within the data.
